@@ -1,6 +1,0 @@
-﻿write-output 'your computer is now mine '
-while($val -ne 20 ) { $val++ ; 
-	Start-Process  https://www.youtube.com/watch?v=dQw4w9WgXcQ
-}
-write-output ( 'you have been rick-rolled ' + $val + ' times' )
-Read-Host -Prompt "enter your social security number please "
